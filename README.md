@@ -45,7 +45,8 @@ cat /etc/services
 cat /etc/services > /root/output.log 
 # An Datei anhängen 
 echo "hänge an" >> /root/output.log 
-
+# Verzeichnistruktur anlegen
+mkdir -p Ordner/{A11,A12}/{AU1,AU2}
 
 
 ```
