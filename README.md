@@ -41,6 +41,10 @@ cp /etc/services /root/meinordner/
 cat /pfad/zur/datei 
 # z.B. 
 cat /etc/services 
+# In die Datei schreiben (überschreiben)
+cat /etc/services > /root/output.log 
+# An Datei anhängen 
+echo "hänge an" >> /root/output.log 
 
 
 
