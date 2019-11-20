@@ -47,6 +47,8 @@ cat /etc/services > /root/output.log
 echo "hänge an" >> /root/output.log 
 # Verzeichnistruktur anlegen
 mkdir -p Ordner/{A11,A12}/{AU1,AU2}
+# Suche nach Verzeichnissen (nur Fragment des Namens bekannt)
+find . -type d -name "*sys*"
 
 
 ```
