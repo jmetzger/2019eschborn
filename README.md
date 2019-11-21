@@ -12,6 +12,9 @@ https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfo
 ## Description Permissions chmod 
 https://wiki.ubuntuusers.de/chmod/
 
+## Files log -folder 
+http://www.vorkon.de/SU1210.001/drittanbieter/Dokumentation/openSUSE_11.4/manual/cha.tuning.logfiles.html
+
 ## Little Exercise (german)
 
 ```
